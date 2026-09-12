@@ -1,2 +1,2 @@
 ### How to challenge ideas in this repo? 
-Currently working on a workflow that would allow discussion and challenges.. any ideas??
+Currently thinking about a git workflow that would allow discussions.. any ideas??
